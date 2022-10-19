@@ -1,0 +1,16 @@
+{
+    "username": "sy121",
+    "code": "CP110",
+    "title": "Data assimilation using Adversarial Neural Networks to help determine COVID infection risks in enclosed spaces",
+    "s1": {
+        "name": "Christopher Pain",
+        "email": "c.pain@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "s2": {
+        "name": "Claire Heaney",
+        "email": "c.heaney@imperial.ac.uk",
+        "affiliation": "Imperial College London"
+    },
+    "additional-supervisors": "Boyang Chen (ICL) boyang.chen16@imperial.ac.uk"
+}
